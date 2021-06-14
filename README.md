@@ -20,7 +20,7 @@ Application supports only portrait mode. To make it more comfortable for the use
 If there was a real need for supporting the landscape mode as well, then an OrientationBuilder with a separate content layout would be used.
 
 ## Approach
-For the state management I used BLoC implemented with flutter_bloc package. There are two main blocs in the application:
+For the state management I used BLoC implemented with flutter_bloc package. There are three main blocs in the application:
 
  - notes_bloc - responsible for acquiring notes data from the database
 
