@@ -6,7 +6,7 @@ Simple Flutter notes app created by João Martins
 - Dart 2.12.0+
 
 ## Task
-Given task is to prepare basic notes app using Flutter and SQFLite framework.
+Given task was to prepare a basic notes app using Flutter and SQFLite framework.
 
 Application uses local database to fetch data and display notes.
 
